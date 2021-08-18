@@ -16,7 +16,7 @@
 - 🥅 www.linkedin.com/in/aman-singh-19723616a
 - **My Projects**
 - https://aman246149.github.io/aman-new-portfolio/index.html (portfolio link)
-- https://aman-singh-blog.web.app/ (blog app link)
+- https://aman-s-blog-webdev.web.app/(blog app link)
 - https://amanshopapp.herokuapp.com/ (e-commerce app link)
 
 

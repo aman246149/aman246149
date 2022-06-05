@@ -20,7 +20,7 @@
 | APP NAME |  SHORT DESCRIPTION  | GITHUB LINK |
 | :---         |     :---:      |          ---: |
 | Ecommerce App  | Used Firebase to add and save product Info with Razorpay payment Integration  | https://github.com/aman246149/EcommerceApp-Flutter  |
-| Reels App      | Use firebase to store and get images and video                                | https://github.com/aman246149/reels-app     |
+| Instagram like App      | Use firebase to store and get images and video                       |https://github.com/aman246149/instagram-clone      |
 | TicTacToe      |Use websockets to make this multiplayer game                                   |https://github.com/aman246149/tictactoeGame               |
 | Poll App       |use websockets to make a real time polling app                                 |https://github.com/aman246149/PollApp/tree/master/poll  |
 | Trade App      |Use sqfLite database to store Data                                             |https://github.com/aman246149/Tradingwithlocalnotifications |           |

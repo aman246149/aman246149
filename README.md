@@ -17,6 +17,10 @@
 - **My Flutter Projects Projects**
 
 
+<h1 align="center">Flutter Mobile Apps</h1>
+
+<hr>
+
 | APP NAME |  SHORT DESCRIPTION  | GITHUB LINK |
 | :---         |     :---:      |          ---: |
 | Translator app  | can translate language into other language like japanese,chinese etc,used clean architecture in this|https://github.com/aman246149/translatorApp|
@@ -25,7 +29,17 @@
 | Instagram like App      | Use firebase to store and get images and video                       |https://github.com/aman246149/instagram-clone      |
 | TicTacToe      |Use websockets to make this multiplayer game                                   |https://github.com/aman246149/tictactoeGame               |
 | Poll App       |use websockets to make a real time polling app                                 |https://github.com/aman246149/PollApp/tree/master/poll  |
-| Trade App      |Use sqfLite database to store Data                                             |https://github.com/aman246149/Tradingwithlocalnotifications |           |
+| Trade App      |Use sqfLite database to store Data                                             |https://github.com/aman246149/Tradingwithlocalnotifications |           
+
+<h1 align="center">Flutter Web Apps</h1>
+
+| APP NAME |  SHORT DESCRIPTION  | GITHUB LINK |
+| :---         |     :---:      |          ---: |
+|SearchAnyDogo | a website to search any dog breed| https://github.com/aman246149/dogsearch|
+|Task Planner  |a website to plan your task |   https://github.com/aman246149/taskPlanner |
+                      
+
+
 <h3 align="center">A passionate developer from India</h3>
 
 

@@ -1,5 +1,4 @@
-### Hi there, I'm Aman - 👋
-
+### Hi there, I'm Aman - 👋  
 
 
 ## I'm a Developer, student, and a Gamer! 
@@ -38,7 +37,18 @@
 |SearchAnyDogo | a website to search any dog breed| https://github.com/aman246149/dogsearch|
 |Task Planner  |a website to plan your task |   https://github.com/aman246149/taskPlanner |
                       
+<h2 >Thing I know in flutter</h2>
 
+- Flutter widgets with refactoring , can make almost all the layout
+- Know Flutter stateManagement solutions like- provider and bloc ,
+- Know how to integrate Api with proper error handling ,also I create seperate model for the Api's
+- Have some backend knowledge ->Firebase , ->Nodejs
+- Flutter web knowledge
+- Simple animations and lottie animations.
+- Mvc pattern and MVVC pattern.
+- Know about translation
+- have knowledge about dependency injection using getx service locator
+- flutter null safety and  factory constructor and all other important data types
 
 <h3 align="center">A passionate developer from India</h3>
 

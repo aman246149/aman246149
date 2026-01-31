@@ -1,64 +1,143 @@
-### Hi there, I'm Aman - 👋  
+# Hi there, I'm Aman Singh 👋
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-singh-19723616a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/amanthapliyal14/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:amanthapliyal14@gmail.com)
 
-## I'm a Developer, student, and a Gamer! 
+</div>
 
-- 🔭 I’m currently working on Flutter project
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Learn As Much As I can
-- ⚡ Fun fact: I love to play games / Currently playing volorant
+## 🚀 About Me
 
+I'm a **Flutter App Developer** with **3+ years of experience** building scalable, production-grade mobile and web applications. I specialize in crafting clean, maintainable code using modern architecture patterns and delivering apps that users love.
 
+- 🔭 Currently working at **Codibex** (Remote)
+- 💡 Built **DeepVid AI** - an AI video generation app that reached **50K+ users** and **$10K/month revenue** in just 3 months
+- 🎯 Created **Student Tribe** - a social platform with **100K+ downloads** and a **4.6★** rating
+- 🌱 Passionate about clean architecture, performance optimization, and user experience
+- 📍 Based in Kotdwara, India
 
-### Connect with me:
-- 🥅 www.linkedin.com/in/aman-singh-19723616a
-- **My Flutter Projects Projects**
+## 💻 Tech Stack
 
+**Mobile & Web Development**
+```
+Flutter | Dart | Android | iOS | Flutter Web
+```
 
-<h1 align="center">Flutter Mobile Apps</h1>
+**State Management & Architecture**
+```
+BLoC | GetX | Provider | Clean Architecture | SOLID Principles
+```
 
-<hr>
+**Backend & Integration**
+```
+Node.js | Firebase | REST APIs | Server-Sent Events (SSE)
+```
 
-| APP NAME |  SHORT DESCRIPTION  | GITHUB LINK |
-| :---         |     :---:      |          ---: |
-| Translator app  | can translate language into other language like japanese,chinese etc,used clean architecture in this|https://github.com/aman246149/translatorApp|
-| Google Like Note app with Firebase |Add ,delete, pin and change colours of notes in real time   |https://github.com/aman246149/notesapp               |
-| Ecommerce App  | Used Firebase to add and save product Info with Razorpay payment Integration  | https://github.com/aman246149/EcommerceApp-Flutter  |
-| Instagram like App      | Use firebase to store and get images and video                       |https://github.com/aman246149/instagram-clone      |
-| TicTacToe      |Use websockets to make this multiplayer game                                   |https://github.com/aman246149/tictactoeGame               |
-| Poll App       |use websockets to make a real time polling app                                 |https://github.com/aman246149/PollApp/tree/master/poll  |
-| Trade App      |Use sqfLite database to store Data                                             |https://github.com/aman246149/Tradingwithlocalnotifications |           
+**Tools & DevOps**
+```
+Git | Xcode | Android Studio | CodeMagic | CI/CD Pipelines
+```
 
-<h1 align="center">Flutter Web Apps</h1>
+**Third-Party SDKs**
+```
+RevenueCat | Razorpay | Push Notifications | Real-time Chat
+```
 
-| APP NAME |  SHORT DESCRIPTION  | GITHUB LINK |
-| :---         |     :---:      |          ---: |
-|SearchAnyDogo | a website to search any dog breed| https://github.com/aman246149/dogsearch|
-|Task Planner  |a website to plan your task |   https://github.com/aman246149/taskPlanner |
-                      
-<h2 >Thing I know in flutter</h2>
+## 🏆 Highlights
 
-- Flutter widgets with refactoring , can make almost all the layout
-- Know Flutter stateManagement solutions like- provider and bloc ,
-- Know how to integrate Api with proper error handling ,also I create seperate model for the Api's
-- Have some backend knowledge ->Firebase , ->Nodejs
-- Flutter web knowledge
-- Simple animations and lottie animations.
-- Mvc pattern and MVVC pattern.
-- Know about translation
-- have knowledge about dependency injection using getx service locator
-- flutter null safety and  factory constructor and all other important data types
+```dart
+class AmanSingh extends FlutterDeveloper {
+  final experience = "3+ years";
+  final projectsCompleted = 10+;
+  final usersImpacted = 150000+;
+  
+  List<String> achievements = [
+    "🎥 Built AI video app with 50K+ users in 3 months",
+    "📱 Developed social platform with 100K+ downloads",
+    "⚡ Reduced CI/CD manual work by 70%",
+    "🎯 Maintain 4.6★ app rating with minimal crashes",
+    "🔄 Handle 3-4 concurrent projects independently"
+  ];
+  
+  @override
+  void ship() {
+    design() + develop() + test() + deploy() + iterate();
+  }
+}
+```
 
-<h3 align="center">A passionate developer from India</h3>
+## 🎯 Featured Projects
 
+### 🎬 DeepVid - AI Video Generation App
+*Built and launched in just 18 days*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- 🤖 AI-powered video generation from text prompts
+- ⚡ Real-time processing updates using Server-Sent Events
+- 💳 RevenueCat integration for cross-platform subscriptions
+- 📈 **50K+ users** | **$10K/month revenue** organically
+- 🏪 Published on Play Store & App Store
 
-<br />
-<br />
+**Tech:** Flutter, AI APIs, SSE, RevenueCat, Clean Architecture
 
+[![Play Store](https://img.shields.io/badge/Download-Play_Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=ai.deepvid&hl=en_IN)
 
+---
 
+### 🎓 Student Tribe - Social Networking Platform
+*Connecting college communities*
 
+- 👥 Social features: posts, likes, real-time chat
+- 🎟️ Event management & ticket purchasing
+- 💼 In-app internship applications
+- 📥 **100K+ downloads** | **4.6★ rating**
+- 🔔 Push notifications & real-time updates
+
+**Tech:** Flutter, Firebase, REST APIs, Real-time Database
+
+[![Play Store](https://img.shields.io/badge/Download-Play_Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.tdevelopers.stumagz&hl=en_IN)
+
+## 🔥 What I Do
+
+- 📱 Build **cross-platform apps** that work seamlessly on Android, iOS, and Web
+- 🏗️ Design **scalable architectures** using BLoC, GetX, and clean architecture principles
+- ⚡ Create **performant UIs** with smooth animations and responsive design
+- 🔌 Integrate **complex APIs** and third-party services
+- 🚀 Set up **CI/CD pipelines** for automated builds and deployments
+- 👨‍💻 Conduct **code reviews** and mentor team members
+- 🎨 Collaborate with designers, QA, and backend teams for seamless delivery
+
+## 🌟 Core Competencies
+
+**Architecture & Design Patterns**
+- Clean Architecture
+- SOLID Principles
+- Repository Pattern
+- Dependency Injection
+
+**Performance Optimization**
+- Widget Optimization
+- Memory Management
+- Build Size Reduction
+- Platform-specific Optimizations
+
+**Project Management**
+- End-to-end ownership of multiple concurrent projects
+- Cross-functional collaboration
+- Agile development practices
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-singh-19723616a/)
+- 📧 **Email:** amanthapliyal14@gmail.com
+- 🧩 **LeetCode:** [Check my solutions](https://leetcode.com/u/amanthapliyal14/)
+- 📍 **Location:** Kotdwara, India
+
+---
+
+<div align="center">
+
+### 💡 "Clean code always looks like it was written by someone who cares"
+
+</div>
